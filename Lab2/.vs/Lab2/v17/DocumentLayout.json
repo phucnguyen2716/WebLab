@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "D:\\WebLab\\Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|d:\\weblab\\lab2\\lab2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|d:\\weblab\\lab2\\lab2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|d:\\weblab\\lab2\\lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|d:\\weblab\\lab2\\lab2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|d:\\weblab\\lab2\\lab2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|d:\\weblab\\lab2\\lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|d:\\weblab\\lab2\\lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|d:\\weblab\\lab2\\lab2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|d:\\weblab\\lab2\\lab2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|d:\\weblab\\lab2\\lab2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|d:\\weblab\\lab2\\lab2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|d:\\weblab\\lab2\\lab2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3846C069-2D7B-49C4-9753-E84BCC74803D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +46,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\WebLab\\Lab2\\Lab2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\WebLab\\Lab2\\Lab2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T10:46:43.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\WebLab\\Lab2\\Lab2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\WebLab\\Lab2\\Lab2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T10:46:42.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebLab\\Lab2\\Lab2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\WebLab\\Lab2\\Lab2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T10:45:39.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\WebLab\\Lab2\\Lab2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\WebLab\\Lab2\\Lab2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T10:38:24.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Welcome.cshtml",
               "DocumentMoniker": "D:\\WebLab\\Lab2\\Lab2\\Views\\HelloWorld\\Welcome.cshtml",
               "RelativeDocumentMoniker": "Lab2\\Views\\HelloWorld\\Welcome.cshtml",
@@ -47,52 +115,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\WebLab\\Lab2\\Lab2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Lab2\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\WebLab\\Lab2\\Lab2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Lab2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-01T10:17:10.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "HelloWorldController.cs",
               "DocumentMoniker": "D:\\WebLab\\Lab2\\Lab2\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "Lab2\\Controllers\\HelloWorldController.cs",
               "ToolTip": "D:\\WebLab\\Lab2\\Lab2\\Controllers\\HelloWorldController.cs",
               "RelativeToolTip": "Lab2\\Controllers\\HelloWorldController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwB4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T10:01:12.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\WebLab\\Lab2\\Lab2\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Lab2\\Views\\_ViewStart.cshtml",
               "ToolTip": "D:\\WebLab\\Lab2\\Lab2\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Lab2\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-01T10:19:22.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\WebLab\\Lab2\\Lab2\\Views\\HelloWorld\\Index.cshtml",
               "RelativeDocumentMoniker": "Lab2\\Views\\HelloWorld\\Index.cshtml",
               "ToolTip": "D:\\WebLab\\Lab2\\Lab2\\Views\\HelloWorld\\Index.cshtml",
               "RelativeToolTip": "Lab2\\Views\\HelloWorld\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-01T10:14:31.396Z",
               "EditorCaption": ""
